@@ -28,3 +28,9 @@ A Python Tkinter desktop application designed to track cognitive performance, re
    ```bash
    git clone [https://github.com/azad17-safin/cognitive-rehab-stroop-app.git](https://github.com/azad17-safin/cognitive-rehab-stroop-app.git)
    cd cognitive-rehab-stroop-app
+
+## How to Run
+
+   ```bash
+   git clone [https://github.com/azad17-safin/cognitive-rehab-stroop-app.git](https://github.com/azad17-safin/cognitive-rehab-stroop-app.git)
+   cd cognitive-rehab-stroop-app
